@@ -8,10 +8,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="adeeshsharma.com" width="22px" src="http://adeeshsharma.com" />][website]
-[<img align="left" alt="adeeshon | Twitter" width="22px" src="https://twitter.com/adeeshon" />][twitter]
-[<img align="left" alt="adeesh23 | LinkedIn" width="22px" src="https://www.linkedin.com/in/adeesh23" />][linkedin]
-[<img align="left" alt="_adeeshsharma_ | Instagram" width="22px" src="https://www.instagram.com/_adeeshsharma_" />][instagram]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
