@@ -1,10 +1,11 @@
 ### Hey there, I'm Adeesh 👋
 
 ## I'm a Student, Developer, and Tech enthusiast!
-- 🔭 I’m currently working as a Software Engineer at ValueLabs!
-- 🌱 I’m currently learning Web Development!
-- 👯 I’m looking to collaborate with other developers on interesting projects!
-- ⚡ Fun fact: I love collecting resources.
+- 🔭 I’m a Software Engineer at ValueLabs.
+- 🌐 I’m currently learning Web Development.
+- 💻 I have experience in development with Python, JavaScript and Java.
+- 👨‍💻 I’m open to collaborate with other developers on personal projects.
+- ⚡ Fun fact: I am a team player and I love collecting resources.
 
 ### Connect with me:
 
@@ -47,6 +48,8 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
+<br />
+<br />
 
 [website]: http://adeeshsharma.com
 [twitter]: https://twitter.com/adeeshon
