@@ -1,7 +1,7 @@
 ### Hey there, I'm Adeesh 👋
 
 ## I'm a Student, Developer, and Tech enthusiast!
-- 🔭 I’m currently a student at MJCET!
+- 🔭 I’m currently working as a Software Engineer at ValueLabs!
 - 🌱 I’m currently learning Web Development!
 - 👯 I’m looking to collaborate with other developers on interesting projects!
 - ⚡ Fun fact: I love collecting resources.
