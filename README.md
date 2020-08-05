@@ -34,5 +34,5 @@
 
 [website]: http://adeeshsharma.com
 [twitter]: https://twitter.com/adeeshon
-[instagram]: https://www.linkedin.com/in/adeesh23
-[linkedin]: https://www.instagram.com/_adeeshsharma_
+[linkedin]: https://www.linkedin.com/in/adeesh23
+[instagram]: https://www.instagram.com/_adeeshsharma_
