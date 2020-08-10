@@ -7,9 +7,6 @@
 - 👨‍💻 I’m open to collaborate with other developers on personal projects.
 - ⚡ Fun fact: I am a team player and I love collecting resources.
 
-### Github Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=adeeshsharma&&show_icons=true&title_color=70E853&icon_color=FFD700&text_color=ffffff&bg_color=000000" />
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -53,7 +50,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
 <br />
-<br />
+
+### Github Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=adeeshsharma&&show_icons=true&title_color=70E853&icon_color=FFD700&text_color=ffffff&bg_color=000000" />
 
 
 [website]: http://adeeshsharma.com
