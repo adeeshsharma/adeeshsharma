@@ -52,7 +52,7 @@
 <br />
 
 ### Github Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=adeeshsharma&&show_icons=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000" style="float:centre"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adeeshsharma&&show_icons=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000"/>
 
 
 [website]: http://adeeshsharma.com
