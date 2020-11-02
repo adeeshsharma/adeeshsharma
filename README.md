@@ -1,6 +1,6 @@
 ### Hey there, I'm Adeesh 👋
 
-## I'm a Student, Developer, and Tech enthusiast!
+## I'm a Software Engineer, Developer, and Tech enthusiast!
 - 🔭 I’m a Software Engineer at ValueLabs.
 - 🌐 I’m currently learning Web Development.
 - 💻 I have experience in development with Python, JavaScript and Java.
