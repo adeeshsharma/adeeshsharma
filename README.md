@@ -56,6 +56,6 @@
 
 
 [website]: http://adeeshsharma.com
-[twitter]: https://twitter.com/adeeshon
+[twitter]: https://twitter.com/_CyberHyper_
 [linkedin]: https://www.linkedin.com/in/adeesh23
 [instagram]: https://www.instagram.com/_adeeshsharma_
