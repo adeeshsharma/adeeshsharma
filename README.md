@@ -2,8 +2,8 @@
 
 ## I'm a Software Engineer, Developer, and Tech enthusiast!
 - 🔭 I’m a Software Engineer at ValueLabs.
-- 🌐 I’m currently learning Web Development.
-- 💻 I have experience in development with Python, JavaScript and Java.
+- 🌐 I’m currently building projects with my skills in Web Development (MERN | WEB3).
+- 💻 I have experience in development with Python, JavaScript and Java as well.
 - 👨‍💻 I’m open to collaborate with other developers on personal projects.
 - ⚡ Fun fact: I am a team player and I love collecting resources.
 
