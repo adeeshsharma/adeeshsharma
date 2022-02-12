@@ -50,9 +50,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
 <br />
-
+<!-- 
 ### Github Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=adeeshsharma&&show_icons=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adeeshsharma&&show_icons=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000"/> -->
 
 
 [website]: http://adeeshsharma.com
