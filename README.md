@@ -1,11 +1,12 @@
 ### Hey there, I'm Adeesh 👋
 
-## I'm a Software Engineer, Developer, and Tech enthusiast!
-- 🔭 I’m a Software Engineer at ValueLabs.
-- 🌐 I’m currently building projects with my skills in Web Development (MERN | WEB3).
-- 💻 I have experience in development with Python, JavaScript and Java as well.
-- 👨‍💻 I’m open to collaborate with other developers on personal projects.
-- ⚡ Fun fact: I am a team player and I love collecting resources.
+## Software Engineer, SDE, and Web3 enthusiast!
+- 🔭 SDE at ValueLabs.
+- 🌐 Currently building Web | Web3 products (MERN | WEB3).
+- 💻 Experienced in development with Python, JavaScript and Java as well.
+- 👨‍💻 I’m open to collaborate with other developers.
+- ⚡ Fun fact: I am a team player and I'm a crypto degen.
+- 🪙 #Fantom $FTM Bull.
 
 ### Connect with me:
 
