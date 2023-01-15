@@ -1,4 +1,4 @@
-### Hey there, I'm Adeesh | _CyberHyper_ on socials 👋
+### Hey there, I'm Adeesh 👋
 
 ## Software Engineer, SDE, and Web3 enthusiast!
 - 🔭 SDE at ValueLabs.
