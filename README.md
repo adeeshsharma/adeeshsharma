@@ -7,6 +7,7 @@
 - 👨‍💻 I’m open to collaborate with other developers.
 - ⚡ Fun fact: I am a team player and I love collecting resources.
 - 🖋️ I share my software engineering insignts here: https://adeesh.hashnode.dev/
+- 👤 Find out more about me here: https://adeeshsharma.com
 
 ### Connect with me:
 
